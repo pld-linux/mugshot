@@ -44,7 +44,7 @@ pozwalające zmieniać dane osobiste i avatar.
 
 %prep
 %setup -q
-%patch0 -p1
+%patch -P 0 -p1
 
 %build
 %{__python3} setup.py build
