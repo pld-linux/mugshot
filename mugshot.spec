@@ -2,7 +2,7 @@ Summary:	User profile configuration utility
 Summary(pl.UTF-8):	Narzędzie do konfigurowania profilu uyżytkownika
 Name:		mugshot
 Version:	0.4.3
-Release:	2
+Release:	3
 Epoch:		1
 License:	GPL v3
 Group:		X11/Applications
